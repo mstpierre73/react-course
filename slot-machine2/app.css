@@ -1,0 +1,12 @@
+.slot {
+    border: 2px solid black;
+    background: lightblue;
+}
+
+.winner {
+    color: green;
+}
+
+.loser {
+    color: red;
+}
