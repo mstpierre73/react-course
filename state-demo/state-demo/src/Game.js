@@ -12,7 +12,7 @@ class Game extends Component {
     render(){
         return(
             <div>
-                <h1>Your score is: {this.state.score}</h1>
+                <h1>The Player 1 is {this.props.player} and her score is {this.state.score}</h1>
             </div>
         )
     }

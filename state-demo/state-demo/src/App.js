@@ -5,7 +5,7 @@ class App extends Component {
   render() {
     return(
       <div className="App">
-        <Game />
+        <Game player="Mimi" session={2}/>
       </div>
     )
   }
